@@ -2,4 +2,10 @@ streamlit
 pandas
 matplotlib
 tesorflow
+streamlit
+pandas
+numpy
+matplotlib
+your_missing_module
+
 
