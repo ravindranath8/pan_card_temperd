@@ -10,3 +10,5 @@ your_missing_module
 
 opencv-python
 
+fastapi
+uvicorn
