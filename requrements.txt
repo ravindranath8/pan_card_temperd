@@ -8,4 +8,5 @@ numpy
 matplotlib
 your_missing_module
 
+opencv-python
 
